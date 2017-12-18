@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 print("Importando libs")
 import pywt
 import cv2
